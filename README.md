@@ -29,3 +29,5 @@ Data Visualization
 To transform raw sales data into meaningful insights, understand historical sales performance, and forecast future sales trends to support better business decisions.
 
 ![image alt](https://github.com/Navaneethdataportfolios/Power_Bi-Portfolio/blob/f93f4aa1db1501676d1b2d2d7e297e3ed3c341bf/Screenshot%20(12).png)
+
+![image alt](https://github.com/Navaneethdataportfolios/Power_Bi-Portfolio/blob/467fe933d425315632ec7c74f634b04b5b5e5d1b/Screenshot%20(13).png)
